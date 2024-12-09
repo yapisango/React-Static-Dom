@@ -1,18 +1,24 @@
 {
-  "name": "Scrim-s06j1g9",
-  "description": "https://scrimba.com/the-frontend-developer-career-path-c0j/~04ux/s05fachude/head",
+  "name": "react-static-dom",
+  "version": "1.0.0",
+  "description": "https://scrimba.com/the-frontend-developer-career-path-c0j/~05mb",
+  "main": "index.js",
   "scripts": {
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
+    "serve": "vite preview",
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "19.0.0-rc-8b08e99e-20240713",
-    "react-dom": "19.0.0-rc-8b08e99e-20240713"
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.4",
+    "@vitejs/plugin-react": "^4.0.0",
     "vite": "^6.0.3"
-  }
+  },
+  "keywords": [],
+  "author": "Sango Mabhuti Yapi",
+  "license": "ISC"
 }
